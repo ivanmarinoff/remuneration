@@ -37,7 +37,7 @@ setup(
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
     author="ivanmarinoff",
-    packages=find_packages(exclude=["tests", ".github"]),
+    packages=find_packages(exclude=[".github"]),
     install_requires=read_requirements("requirements.txt"),
     entry_points={
         "console_scripts": ["remuneration = remuneration.__main__:main"]

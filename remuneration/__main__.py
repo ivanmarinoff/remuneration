@@ -1,6 +1,6 @@
 """Entry point for remuneration."""
 
-from .cli import main  # pragma: no cover
+from remuneration.base import main
 
 if __name__ == "__main__":  # pragma: no cover
     main()
