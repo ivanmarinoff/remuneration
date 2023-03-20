@@ -47,3 +47,4 @@ $ remuneration
 ## Development
 
 Read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+✅ Ready to clone and code.
